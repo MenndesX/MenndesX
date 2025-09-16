@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Anderson Mendes, sou de São Paulo, tenho 21 anos e sou apaixonado por tecnologia, desenvolvimento de software e inovação. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Unicid, com previsão de conclusão em 2025. Tenho experiência prática com desenvolvimento backend em .NET, APIs RESTful, Web API, SQL Server e MySQL, além de projetos pessoais que reforçam minhas habilidades em arquitetura em camadas e boas práticas de programação.
+Me chamo Anderson Mendes, sou de São Paulo, tenho 21 anos, gosto de desenvolvimento de software e inovação. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Unicid, com previsão de conclusão em 2025. Tenho experiência prática com desenvolvimento backend em .NET, APIs RESTful, Web API, SQL Server e MySQL, além de projetos pessoais que reforçam minhas habilidades em arquitetura em camadas e boas práticas de programação.
 
 
 
