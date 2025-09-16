@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Anderson Mendes
+##  Anderson Mendes
 
 **`Desenvolvedora FullStack`**
 
